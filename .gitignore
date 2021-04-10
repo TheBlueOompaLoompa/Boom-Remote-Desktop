@@ -1,5 +1,5 @@
 /node_modules/
 /public/build/
-/control/node_modules/
+control/node_modules
 
 .DS_Store

@@ -18,11 +18,6 @@
 					'stun:stun.l.google.com:19302',
 					'stun:stun1.l.google.com:19302',
 				]
-			},
-			{
-				urls: 'turn:192.168.1.4:3478',
-				credential: 'A4@dvjPEhpJ7SjzZ',
-				username: 'pi'
 			}
 		],
 		iceCandidatePoolSize: 10,
